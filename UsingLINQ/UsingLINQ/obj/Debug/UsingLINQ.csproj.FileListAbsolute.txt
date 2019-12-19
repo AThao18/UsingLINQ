@@ -1,0 +1,6 @@
+c:\users\thaaar\documents\visual studio 2017\Projects\UsingLINQ\UsingLINQ\bin\Debug\UsingLINQ.exe.config
+c:\users\thaaar\documents\visual studio 2017\Projects\UsingLINQ\UsingLINQ\bin\Debug\UsingLINQ.exe
+c:\users\thaaar\documents\visual studio 2017\Projects\UsingLINQ\UsingLINQ\bin\Debug\UsingLINQ.pdb
+c:\users\thaaar\documents\visual studio 2017\Projects\UsingLINQ\UsingLINQ\obj\Debug\UsingLINQ.exe
+c:\users\thaaar\documents\visual studio 2017\Projects\UsingLINQ\UsingLINQ\obj\Debug\UsingLINQ.pdb
+c:\users\thaaar\documents\visual studio 2017\Projects\UsingLINQ\UsingLINQ\obj\Debug\UsingLINQ.csprojResolveAssemblyReference.cache
